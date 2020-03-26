@@ -1,5 +1,12 @@
 # Python-IrradPy_Visualization
-This is the global horizontal irradiance visualization example using IrradPy
+This is the global horizontal irradiance visualization example using IrradPy Package.
+
+## Usage
+- Get IrradPy Installed
+- Run irradpy_data_download.py
+- Run irradpy_data_preparation.py
+- Run ortho_irradiance_visualization.py or china_irradiance_visualization.py
+- View the Image
 
 ## Example Figure
 Using this tool, I can map out the global horizontal irradiance on a global basis or for a specific country. 
