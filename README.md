@@ -1,4 +1,4 @@
-# Python-IrradPy_Visualization
+# Global Irradiance Visualization Script 
 This is the global horizontal irradiance visualization example using IrradPy Package.
 
 ## Usage
